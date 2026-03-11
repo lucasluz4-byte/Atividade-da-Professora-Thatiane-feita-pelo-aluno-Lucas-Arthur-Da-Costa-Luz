@@ -96,4 +96,26 @@ Organizar as tarefas do projeto em um quadro.
 
 Controlar o andamento das atividades.
 
+
+**Abertura de Pull Request**
+
+Serve para:
+
+Solicitar a revisão das alterações feitas em uma branch.
+
+Permitir que outros membros da equipe analisem o código.
+
+Preparar a integração das mudanças no projeto principal.
+
+
+**Realização de Merge**
+
+Serve para:
+
+Unir as alterações de uma branch com a branch principal.
+
+Integrar novas funcionalidades ao projeto.
+
+Finalizar a implementação de uma tarefa ou melhoria.
+
 Visualizar o que está pendente, em andamento ou concluído.
